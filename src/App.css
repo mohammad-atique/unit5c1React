@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  align-items: center;
+  border: 2px solid red;
+  width: 50%;
+  margin: auto;
+}
+.banner{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.addScore, .addBall, .addWicket{
+  margin-bottom:20px;
+  /* border: 1px solid; */
+  display: flex;
+  justify-content: space-around;
+  text-align: left;
+}
+
+button{
+  background-color: red;
+}
